@@ -49,29 +49,6 @@ VOOT is an Android entertainment based application. With a collection of most po
 
 • Handled Oreo related app upgrades including notification channels.
 
-![This is an image](https://play-lh.googleusercontent.com/zbYYeWNxUIQd0jYiymrn_h-RlA8-_vCVIgtURpEECwy3Nhs4SG3P7czbsJguJYzzghQ=s360-rw)
-
-###### Saregama Classic (https://play.google.com/store/apps/details?id=com.saregama.classic&hl=en_IN)
-
-SAREGAMA CLASSIC mobile application is aimed to provide Classical songs including all famous artists, Instruments and Ragas.
-
-
-![This is an image](https://play-lh.googleusercontent.com/LXsQtevoLcPEAd_0sVNYjzI83fgo6VswjFs9JkHPW3a0UvXL6ui4PBjhnSvCcY47Mvg=s360-rw)
-
-###### Saregama Shakti (https://play.google.com/store/apps/details?id=com.saregama.shakti&hl=en_IN)
-
-SAREGAMA SHAKTI mobile application is aimed to provide devotional songs, mantras, horoscope and panchang information to the user.
-
-###### For CLASSIC and SHAKTI :
-
-• Implemented Facebook Account kit library for login.   
-
-• Handled Android M update with permission requests for all cases. 
-
-• Worked with Android Media player and Exo Player with Chrome cast support. 
-
-• Handled subscription renewal and gifting features.
-
 ![This is an image](https://play-lh.googleusercontent.com/ouWXSSDI3UgwcYl7KCFV961bJ2VxNzN21wBGuwBLS2hA6aZs1Bw-IPB5HVd7rEPysQ=s360-rw)
 
 ###### Mercedes Me (https://play.google.com/store/apps/details?id=com.daimler.ris.mercedesme.ece.android)
@@ -110,6 +87,31 @@ MOTILAL OSWAL Wear app is aimed to provide information related to Sensex, Portfo
 • Handled the entire Android part single handedly with providing support for round and square watches.
 
 • Used Loopj for networking, implemented Intent service and Broadcast receivers.
+
+
+
+![This is an image](https://play-lh.googleusercontent.com/zbYYeWNxUIQd0jYiymrn_h-RlA8-_vCVIgtURpEECwy3Nhs4SG3P7czbsJguJYzzghQ=s360-rw)
+
+###### Saregama Classic (https://play.google.com/store/apps/details?id=com.saregama.classic&hl=en_IN)
+
+SAREGAMA CLASSIC mobile application is aimed to provide Classical songs including all famous artists, Instruments and Ragas.
+
+
+![This is an image](https://play-lh.googleusercontent.com/LXsQtevoLcPEAd_0sVNYjzI83fgo6VswjFs9JkHPW3a0UvXL6ui4PBjhnSvCcY47Mvg=s360-rw)
+
+###### Saregama Shakti (https://play.google.com/store/apps/details?id=com.saregama.shakti&hl=en_IN)
+
+SAREGAMA SHAKTI mobile application is aimed to provide devotional songs, mantras, horoscope and panchang information to the user.
+
+###### For CLASSIC and SHAKTI :
+
+• Implemented Facebook Account kit library for login.   
+
+• Handled Android M update with permission requests for all cases. 
+
+• Worked with Android Media player and Exo Player with Chrome cast support. 
+
+• Handled subscription renewal and gifting features.
 
 
 
