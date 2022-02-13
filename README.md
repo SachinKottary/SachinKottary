@@ -32,10 +32,12 @@
 
 ## Developed Applications
 
+## Voot
+###### (https://play.google.com/store/apps/details?id=com.tv.v18.viola&hl=en_IN)
+
 
 ![This is an image](https://play-lh.googleusercontent.com/70qBcFj4OSFhN2rPIiXadUvtSRSvSy4AAVvgWkKS3_PeUEabtIKL8gsDKbvjhSBa4UI=s360-rw)
 
-###### Voot (https://play.google.com/store/apps/details?id=com.tv.v18.viola&hl=en_IN)
 
 VOOT is an Android entertainment based application. With a collection of most popular TV shows including Big Boss and top movies, the user will be able to watch whenver and wherever he wants.
 
@@ -49,9 +51,12 @@ VOOT is an Android entertainment based application. With a collection of most po
 
 • Handled Oreo related app upgrades including notification channels.
 
+
+## Mercedes Me ###### (https://play.google.com/store/apps/details?id=com.daimler.ris.mercedesme.ece.android)
+
+
 ![This is an image](https://play-lh.googleusercontent.com/ouWXSSDI3UgwcYl7KCFV961bJ2VxNzN21wBGuwBLS2hA6aZs1Bw-IPB5HVd7rEPysQ=s360-rw)
 
-###### Mercedes Me (https://play.google.com/store/apps/details?id=com.daimler.ris.mercedesme.ece.android)
 
 MERCEDES ME app is designed for the Mercedes car owners to give direct access to their vehicle at their fingertips at all
 times. User can obtain current information on their vehicle, navigate safely and reliably to their intended destinationand use the news offering and other services from Mercedes-Benz.
@@ -65,9 +70,11 @@ times. User can obtain current information on their vehicle, navigate safely and
 • Integrated Mercedes Benz recommended, Surrounding Info, Available Prognosis, Charge station photos, Real timemonitoring and Scan QR code features.
 
 
+## iPrutouch by ICICI Mutual Funds ###### (https://play.google.com/store/apps/details?id=com.iPruAMC&hl=en_IN)
+
+
 ![This is an image](https://play-lh.googleusercontent.com/nseXO6Z1B126kWlRiTRoMf3KhS-fvj1saOpFUmTdW6Odi2o7aT8nc-q21ObdLVMmZQ=s360-rw)
 
-###### iPrutouch by ICICI Mutual Funds (https://play.google.com/store/apps/details?id=com.iPruAMC&hl=en_IN)
 
 IPRUTOUCH is an application for the investors and distributors of ICICI Prudential Mutual Fund. App is considered best into finance-MF category for end users.
 
@@ -78,9 +85,12 @@ IPRUTOUCH is an application for the investors and distributors of ICICI Prudenti
  • Used Volley and Picaso SDKs.
 
 
+## Motilal Oswal ###### (https://play.google.com/store/apps/details?id=mosl.powerapp.com&hl=en_IN)
+
+
+
 ![This is an image](https://play-lh.googleusercontent.com/wsTeAJlq1J9pGeKwWFnlrWjvWj6VS9U5J0TByg44Me3hpXp-C5SCylQ5rAzMmtWiz-mE=s360-rw)
 
-###### Motilal Oswal (https://play.google.com/store/apps/details?id=mosl.powerapp.com&hl=en_IN)
 
 MOTILAL OSWAL Wear app is aimed to provide information related to Sensex, Portfolios, Commodities on the users android watch to keep him up to date on the go without ever having the need to open the mobile.
 
@@ -89,21 +99,24 @@ MOTILAL OSWAL Wear app is aimed to provide information related to Sensex, Portfo
 • Used Loopj for networking, implemented Intent service and Broadcast receivers.
 
 
+## Saregama Classic ###### (https://play.google.com/store/apps/details?id=com.saregama.classic&hl=en_IN)
+
 
 ![This is an image](https://play-lh.googleusercontent.com/zbYYeWNxUIQd0jYiymrn_h-RlA8-_vCVIgtURpEECwy3Nhs4SG3P7czbsJguJYzzghQ=s360-rw)
 
-###### Saregama Classic (https://play.google.com/store/apps/details?id=com.saregama.classic&hl=en_IN)
 
 SAREGAMA CLASSIC mobile application is aimed to provide Classical songs including all famous artists, Instruments and Ragas.
 
 
+## Saregama Shakti ###### (https://play.google.com/store/apps/details?id=com.saregama.shakti&hl=en_IN)
+
+
 ![This is an image](https://play-lh.googleusercontent.com/LXsQtevoLcPEAd_0sVNYjzI83fgo6VswjFs9JkHPW3a0UvXL6ui4PBjhnSvCcY47Mvg=s360-rw)
 
-###### Saregama Shakti (https://play.google.com/store/apps/details?id=com.saregama.shakti&hl=en_IN)
 
 SAREGAMA SHAKTI mobile application is aimed to provide devotional songs, mantras, horoscope and panchang information to the user.
 
-###### For CLASSIC and SHAKTI :
+## For CLASSIC and SHAKTI :
 
 • Implemented Facebook Account kit library for login.   
 
