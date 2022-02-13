@@ -52,7 +52,8 @@ VOOT is an Android entertainment based application. With a collection of most po
 • Handled Oreo related app upgrades including notification channels.
 
 
-## Mercedes Me ###### (https://play.google.com/store/apps/details?id=com.daimler.ris.mercedesme.ece.android)
+## Mercedes Me
+###### (https://play.google.com/store/apps/details?id=com.daimler.ris.mercedesme.ece.android)
 
 
 ![This is an image](https://play-lh.googleusercontent.com/ouWXSSDI3UgwcYl7KCFV961bJ2VxNzN21wBGuwBLS2hA6aZs1Bw-IPB5HVd7rEPysQ=s360-rw)
@@ -70,7 +71,8 @@ times. User can obtain current information on their vehicle, navigate safely and
 • Integrated Mercedes Benz recommended, Surrounding Info, Available Prognosis, Charge station photos, Real timemonitoring and Scan QR code features.
 
 
-## iPrutouch by ICICI Mutual Funds ###### (https://play.google.com/store/apps/details?id=com.iPruAMC&hl=en_IN)
+## iPrutouch by ICICI Mutual Funds 
+###### (https://play.google.com/store/apps/details?id=com.iPruAMC&hl=en_IN)
 
 
 ![This is an image](https://play-lh.googleusercontent.com/nseXO6Z1B126kWlRiTRoMf3KhS-fvj1saOpFUmTdW6Odi2o7aT8nc-q21ObdLVMmZQ=s360-rw)
@@ -85,7 +87,8 @@ IPRUTOUCH is an application for the investors and distributors of ICICI Prudenti
  • Used Volley and Picaso SDKs.
 
 
-## Motilal Oswal ###### (https://play.google.com/store/apps/details?id=mosl.powerapp.com&hl=en_IN)
+## Motilal Oswal 
+###### (https://play.google.com/store/apps/details?id=mosl.powerapp.com&hl=en_IN)
 
 
 
@@ -99,7 +102,8 @@ MOTILAL OSWAL Wear app is aimed to provide information related to Sensex, Portfo
 • Used Loopj for networking, implemented Intent service and Broadcast receivers.
 
 
-## Saregama Classic ###### (https://play.google.com/store/apps/details?id=com.saregama.classic&hl=en_IN)
+## Saregama Classic 
+###### (https://play.google.com/store/apps/details?id=com.saregama.classic&hl=en_IN)
 
 
 ![This is an image](https://play-lh.googleusercontent.com/zbYYeWNxUIQd0jYiymrn_h-RlA8-_vCVIgtURpEECwy3Nhs4SG3P7czbsJguJYzzghQ=s360-rw)
@@ -108,7 +112,8 @@ MOTILAL OSWAL Wear app is aimed to provide information related to Sensex, Portfo
 SAREGAMA CLASSIC mobile application is aimed to provide Classical songs including all famous artists, Instruments and Ragas.
 
 
-## Saregama Shakti ###### (https://play.google.com/store/apps/details?id=com.saregama.shakti&hl=en_IN)
+## Saregama Shakti 
+###### (https://play.google.com/store/apps/details?id=com.saregama.shakti&hl=en_IN)
 
 
 ![This is an image](https://play-lh.googleusercontent.com/LXsQtevoLcPEAd_0sVNYjzI83fgo6VswjFs9JkHPW3a0UvXL6ui4PBjhnSvCcY47Mvg=s360-rw)
